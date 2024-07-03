@@ -1,0 +1,6 @@
+[submodule "text_on_OpenSCAD"]
+	path = text_on_OpenSCAD
+	url = https://github.com/brodykenrick/text_on_OpenSCAD.git
+[submodule "spiff-sans"]
+	path = spiff-sans
+	url = https://github.com/stuartpb/spiff-sans.git
